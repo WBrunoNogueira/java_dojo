@@ -10,7 +10,7 @@ public class Aula07Arrays3 {
 //            System.out.println(numero2[i]);
 //        }
 
-        // a simple for without index
+        // a simple for without index foreach
         for (int num : numero3) {
             System.out.println(num);
         }
