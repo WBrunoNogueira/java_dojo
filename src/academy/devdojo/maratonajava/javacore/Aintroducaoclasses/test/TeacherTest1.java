@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.introducaoclasses.test;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
-import academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Teacher;
+import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Teacher;
 
 public class TeacherTest1 {
     public static void main(String[] args) {
