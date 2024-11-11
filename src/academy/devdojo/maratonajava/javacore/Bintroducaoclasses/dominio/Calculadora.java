@@ -25,5 +25,13 @@ public class Calculadora {
             return num1 / num2;
         }
         return 0;
+
+
+    }
+    public void alteraNumero(int num1, int num2){
+        num1 = 99;
+        num2 = 50;
+        out.println("esses são os valores de num1 e num2 " + num1 + num2);
+
     }
 }
