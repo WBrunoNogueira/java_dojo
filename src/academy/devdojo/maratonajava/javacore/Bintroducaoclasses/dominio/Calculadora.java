@@ -28,6 +28,13 @@ public class Calculadora {
 
 
     }
+
+    public  void imprimeDoisNumers(double num1 , double num2){
+        if (num2 == 0) {
+            out.println("Não existe divisão por zero");
+        }
+        out.println(num1 / num2);
+    }
     public void alteraNumero(int num1, int num2){
         num1 = 99;
         num2 = 50;
